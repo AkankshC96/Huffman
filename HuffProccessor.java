@@ -1,3 +1,4 @@
+// @author: Akanksh Chaudhary
 import java.util.*;
 
 public class HuffProcessor implements Processor {
