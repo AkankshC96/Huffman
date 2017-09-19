@@ -4,14 +4,22 @@ Name: Akanksh Chaudhary
 NetID: ac391
 Hours Spent: 15.5 hrs
 ----------------------------------------------------------------------
+
+
+
+
+
+
 Part 1: Benchmark and analyze my code
-	Name:		           Compression Rate:	  Time Elapsed:	    Alphabet Size:    Length:
+
+	Name:		       Compression Rate       Time Elapsed:	Alphabet Size:    Length:
+        
 	Calgary.book1          1.753x                 1.006 s           82 characters     6,150,168 bits
-	Calgary.news           1.530x				  0.58 s			98 characters     3,016,872 bits
+	Calgary.news           1.530x		      0.58 s		98 characters     3,016,872 bits
 	Calgary.paper1         1.588x                 0.066 s           95 characters     425,288 bits
 	Waterloo.color.lena    1.028x                 1.472 s           256 characters    6,292,544 bits
 	Waterloo.color.clegg   1.057x                 3.849 s           256 characters    17,192,768 bits
-	Waterloo.gs1.lena      1.047x                 0.182 s			233 characters    525,328 bits
+	Waterloo.gs1.lena      1.047x                 0.182 s		233 characters    525,328 bits
 	Waterloo.gs2.lena      1.069x                 0.475 s           227 characters    2,098,192 bits
 	
 	Holding alphabet size constant, the time elapsed goes up as the size of the file increases, but the compression rate stays the same.
