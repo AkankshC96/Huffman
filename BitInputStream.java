@@ -7,8 +7,8 @@
  *	to catch and handle any file input/output related errors or exceptions at compile
  *	time.
  *
- *	@author Brian Lavallee
- *	@since 5 November 2015
+ *	@author Teaching Assistant
+ *	@since 5 November 2016
  */
 
 import java.io.BufferedInputStream;
