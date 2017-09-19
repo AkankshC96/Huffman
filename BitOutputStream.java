@@ -10,9 +10,9 @@
  *	using a BitOutputStream to ensure that buffer is properly written to
  *	the output.
  *
- *	@author Owen Astrachan
- *	@contributor Brian Lavallee
- *	@since 5 November 2015
+ *	@author Professor Owen Astrachan
+ *	@contributor Teaching Assistant
+ *	@since 5 November 2016
  */
 
 import java.io.File;
