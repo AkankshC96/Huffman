@@ -2,8 +2,8 @@
 /**
  *	Launches the user interface for the Huffman assignment.
  *
- *	@author Brian Lavallee
- *	@since 6 November 2015
+ *	@author Teaching Assistant
+ *	@since 6 November 2016
  */
 
 import javafx.application.Application;
